@@ -1,5 +1,7 @@
 # Game-of-Life
-John Conway's Game of Life created in C using SDL
+John Conway's Game of Life created in C using SDL.
+
+This was my AP CS Principles project submission for 2021 exams, I ended up getting a 4. Don't know if it was because of this or the MC :P
 
 # Building
 If on Windows, make sure you have the following installed:
